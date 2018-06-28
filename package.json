@@ -1,6 +1,6 @@
 {
     "name": "@iosio/client",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "small wrapper for fetch",
     "main": "libs/index.js",
     "license": "ISC",
