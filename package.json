@@ -43,5 +43,8 @@
         "presets": [
             "react-app"
         ]
+    },
+    "dependencies": {
+        "@iosio/utils": "^1.0.40"
     }
 }
