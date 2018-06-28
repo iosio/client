@@ -18,7 +18,6 @@ const delayPromise = (data, del)=>{
 export class FakeClient {
     constructor(api_url, data) {
         this.api_url = api_url;
-        this.fake_options = fake_options;
         this.data = data ? data: {};
     }
 
